@@ -13,6 +13,8 @@ This project is a real-time analog clock built with HTML, CSS, and JavaScript. I
 <li>CSS3</li>
 <li>JavaScript (for clock functionality)</li>
 </ul>
+
 <br>
-<b>📸 Screenshot:</b>
+<h3>📸 Screenshot:</h3>
+
 ![Image Alt](https://github.com/Asha-Kanjarla/Analog-Clock/blob/main/screenshot.png?raw=true)
